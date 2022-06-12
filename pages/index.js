@@ -103,7 +103,7 @@ export default function Home() {
                 padding: { xs: '1rem' },
               }}
             >
-              Election officers are responsible for play the administrative role
+              Election officers are responsible for playing the administrative role
               in the election.
             </Typography>
             <Button

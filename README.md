@@ -1,4 +1,4 @@
-Check out the application at [https://crowd-coin-phi.vercel.app/](https://my-vote.vercel.app/)
+Check out the application at https://my-vote.vercel.app/
 
 ## Getting Started
 
